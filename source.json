@@ -17,6 +17,7 @@
         "hai-vr/SDK0",
         "hai-vr/av3-animator-as-code",
         "hai-vr/animator-as-code-vrchat",
-        "hai-vr/animator-as-code-vrchat-destructive-workflow"
+        "hai-vr/animator-as-code-vrchat-destructive-workflow",
+        "hai-vr/modular-avatar-as-code"
     ]
 }
