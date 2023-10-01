@@ -16,5 +16,11 @@
     "githubRepos":[
     ],
     "packages":[
+        {
+            "name":"dev.hai-vr.vpm-test",
+            "releases":[
+                "https://github.com/hai-vr/vpm-test/archive/refs/tags/V0.0.1.zip"
+            ]
+        }
     ]
 }
