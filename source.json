@@ -20,6 +20,7 @@
         "hai-vr/animator-as-code-vrchat-destructive-workflow",
         "hai-vr/animator-as-code-ndmf-processor",
         "hai-vr/modular-avatar-as-code",
-        "hai-vr/bypass-vcc-package-error"
+        "hai-vr/bypass-vcc-package-error",
+        "hai-vr/resilience-sdk-vrc"
     ]
 }
