@@ -9,12 +9,13 @@
     },
     "description":"Haï~ listing for DEVELOPERS ONLY to test bugs in VCC",
     "infoLink":{
-        "url":"https://hai-vr.github.io/vpm-listing-to-test-bugs-in-vcc",
+        "url":"https://github.com/hai-vr/vpm-listing-to-test-bugs-in-vcc",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
         "hai-vr/fictitious-vcc-prerelease-dependency",
-        "hai-vr/fictitious-vcc-only-prerelease"
+        "hai-vr/fictitious-vcc-only-prerelease",
+        "hai-vr/fictitious-vcc-prerelease-released"
     ]
 }
