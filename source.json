@@ -1,7 +1,7 @@
 {
-    "name":"https://docs.hai-vr.dev",
+    "name":"Haï DEV ONLY - Test Bugs in VCC",
     "id":"dev.hai-vr.vpm",
-    "url":"https://hai-vr.github.io/vpm-listing/index.json",
+    "url":"https://hai-vr.github.io/vpm-listing-to-test-bugs-in-vcc/index.json",
     "author":{
         "email":"hai-vr@users.noreply.github.com",
         "name":"Haï~",
@@ -9,18 +9,11 @@
     },
     "description":"Haï~ listing",
     "infoLink":{
-        "url":"http://github.com/hai-vr/vpm-listing",
+        "url":"https://hai-vr.github.io/vpm-listing-to-test-bugs-in-vcc",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "hai-vr/SDK0",
-        "hai-vr/av3-animator-as-code",
-        "hai-vr/animator-as-code-vrchat",
-        "hai-vr/animator-as-code-vrchat-destructive-workflow",
-        "hai-vr/animator-as-code-ndmf-processor",
-        "hai-vr/modular-avatar-as-code",
-        "hai-vr/bypass-vcc-package-error",
-        "hai-vr/resilience-sdk-vrc"
+        "hai-vr/SDK0"
     ]
 }
