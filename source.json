@@ -16,7 +16,6 @@
     "githubRepos":[
         "hai-vr/fictitious-vcc-prerelease-dependency",
         "hai-vr/fictitious-vcc-only-prerelease",
-        "hai-vr/fictitious-vcc-prerelease-released",
-        "hai-vr/modular-fury-please-behave"
+        "hai-vr/fictitious-vcc-prerelease-released"
     ]
 }
