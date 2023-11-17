@@ -17,6 +17,10 @@
         "hai-vr/fictitious-vcc-prerelease-dependency",
         "hai-vr/fictitious-vcc-only-prerelease",
         "hai-vr/fictitious-vcc-prerelease-released",
-        "hai-vr/resilience-toolkit"
+        "hai-vr/resilience-toolkit",
+        "hai-vr/visual-expressions-editor-vcc",
+        "hai-vr/animation-viewer-vcc",
+        "hai-vr/blendshape-viewer-vcc",
+        "hai-vr/property-finder"
     ]
 }
