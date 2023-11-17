@@ -21,6 +21,7 @@
         "hai-vr/visual-expressions-editor-vcc",
         "hai-vr/animation-viewer-vcc",
         "hai-vr/blendshape-viewer-vcc",
-        "hai-vr/property-finder"
+        "hai-vr/property-finder",
+        "hai-vr/combo-gesture-expressions-av3"
     ]
 }
