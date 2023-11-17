@@ -18,5 +18,13 @@
         "hai-vr/fictitious-vcc-only-prerelease",
         "hai-vr/fictitious-vcc-prerelease-released",
         "hai-vr/combo-gesture-expressions-av3"
+    ],
+    "packages" : [
+        {
+            "name" : "dev.hai-vr.icongen-thumbnail",
+            "releases" : [
+                "https://github.com/hai-vr/icongen-thumbnail-vcc/releases/download/2.0.0/dev.hai-vr.icongen-thumbnail-2.0.0.zip"
+            ]
+        }
     ]
 }
